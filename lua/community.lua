@@ -21,4 +21,6 @@ return {
   { import = "astrocommunity.colorscheme.monokai-pro-nvim" },
   { import = "astrocommunity.colorscheme.sonokai" },
   { import = "astrocommunity.colorscheme.catppuccin" },
+  -- recipes
+  { import = "astrocommunity.recipes.heirline-mode-text-statusline" },
 }
