@@ -15,8 +15,10 @@ return {
   { import = "astrocommunity.pack.bash" },
   { import = "astrocommunity.pack.typescript" },
   { import = "astrocommunity.pack.python-ruff" },
-  -- completion 
+  { import = "astrocommunity.pack.html-css" },
+  -- AI 
   { import = "astrocommunity.completion.copilot-cmp" },
+  { import = "astrocommunity.editing-support.copilotchat-nvim" },
   -- colorscheme
   { import = "astrocommunity.colorscheme.monokai-pro-nvim" },
   { import = "astrocommunity.colorscheme.sonokai" },
