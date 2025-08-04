@@ -25,4 +25,5 @@ return {
   { import = "astrocommunity.colorscheme.catppuccin" },
   -- recipes
   { import = "astrocommunity.recipes.heirline-mode-text-statusline" },
+  { import = "astrocommunity.motion.nvim-surround"},
 }
